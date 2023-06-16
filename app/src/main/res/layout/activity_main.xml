@@ -123,7 +123,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
             android:padding="10dp"
-            android:text="Version 1.0 - Caio e Camila"
+            android:text="Version 1.0 - Caio"
             android:textColor="@color/black"
             android:textSize="19sp"
             android:gravity="center"/>
